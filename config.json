@@ -1,0 +1,14 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Bristol_East_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q1070148",
+    "start": "1983",
+    "end": "9999"
+  }, {
+    "id": "Q43291088",
+    "start": "1885",
+    "end": "1950"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate"
+}
