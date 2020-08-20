@@ -1,0 +1,98 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q581095,Kerry McCarthy,Q9630,Labour Party (UK),27717,Q30173038,General election 2019,1
+,Sarah Codling,Q9626,Conservative Party (UK),16923,Q30173038,General election 2019,2
+,Nicholas Coombes,Q9624,Liberal Democrats (UK),3527,Q30173038,General election 2019,3
+,Conan Connolly,Q9669,Green Party of England and Wales,2106,Q30173038,General election 2019,4
+,Tim Page,Q61651140,Brexit Party,1881,Q30173038,General election 2019,5
+Q581095,Kerry McCarthy,Q9630,Labour Party (UK),30847,Q25052149,General election 2017,1
+Q75583507,Theodora Clarke,Q9626,Conservative Party (UK),17453,Q25052149,General election 2017,2
+,Chris Lucas,Q9624,Liberal Democrats (UK),1389,Q25052149,General election 2017,3
+,Lorraine Francis,Q9669,Green Party of England and Wales,1110,Q25052149,General election 2017,4
+Q581095,Kerry McCarthy,Q9630,Labour Party (UK),18148,Q3586935,General election 2015,1
+Q75583507,Theodora Clarke,Q9626,Conservative Party (UK),14168,Q3586935,General election 2015,2
+,James McMurray,Q10647,UKIP,7152,Q3586935,General election 2015,3
+,Lorraine Francis,Q9669,Green Party of England and Wales,3827,Q3586935,General election 2015,4
+,Abdul Malik,Q9624,Liberal Democrats (UK),2689,Q3586935,General election 2015,5
+,Matt Gordon,Q980923,Trade Unionist and Socialist Coalition,229,Q3586935,General election 2015,6
+Q581095,Kerry McCarthy,Q9630,Labour Party (UK),16471,Q215622,General election 2010,1
+,Adeela Shafi,Q9626,Conservative Party (UK),12749,Q215622,General election 2010,2
+,Mike Popham,Q9624,Liberal Democrats (UK),10993,Q215622,General election 2010,3
+,Brian Jenkins,Q161269,British National Party,1960,Q215622,General election 2010,4
+,Philip Collins,Q10647,UK Independence Party,1510,Q215622,General election 2010,5
+,Glenn Vowles,Q9669,Green Party of England and Wales,803,Q215622,General election 2010,6
+,Stephen Wright,Q2479228,English Democrats,347,Q215622,General election 2010,7
+,Rae Lynch,Q980923,Trade Unionist and Socialist Coalition,184,Q215622,General election 2010,8
+Q581095,Kerry McCarthy,Q9630,Labour Party (UK),19152,Q428598,General election 2005,1
+,Philip James,Q9624,Liberal Democrats (UK),10531,Q428598,General election 2005,2
+,Julia Manning,Q9626,Conservative Party (UK),8787,Q428598,General election 2005,3
+,Arjuna Krishna-Das,Q9669,Green Party of England and Wales,1586,Q428598,General election 2005,4
+,Jean Smith,Q10647,UK Independence Party,1132,Q428598,General election 2005,5
+,Paulette North,Q287031,RESPECT The Unity Coalition,532,Q428598,General election 2005,6
+Q334443,Jean Corston,Q9630,Labour Party (UK),22180,Q590740,General election 2001,1
+Q695257,Jack Lopresti,Q9626,Conservative Party (UK),8788,Q590740,General election 2001,2
+,Brian Niblett,Q9624,Liberal Democrats (UK),6915,Q590740,General election 2001,3
+,Geoff Collard,Q9669,Green Party of England and Wales,1110,Q590740,General election 2001,4
+,Roger Marsh,Q10647,UK Independence Party,572,Q590740,General election 2001,5
+,Michael Langley,Q3491460,Socialist Labour Party (UK),438,Q590740,General election 2001,6
+,Andrew Pryor,Q7551508,Socialist Alliance (England),331,Q590740,General election 2001,7
+Q334443,Jean Corston,Q9630,Labour Party (UK),27418,Q918503,General election 1997,1
+Q267485,Ed Vaizey,Q9626,Conservative Party (UK),11259,Q918503,General election 1997,2
+,Peter Tyzack,Q9624,Liberal Democrats (UK),7121,Q918503,General election 1997,3
+,Gerry Philip,Q278315,Referendum Party,1479,Q918503,General election 1997,4
+,Paul Williams,Q3491460,Socialist Labour Party (UK),766,Q918503,General election 1997,5
+,John McLaggan,Q491782,Natural Law Party,158,Q918503,General election 1997,6
+Q334443,Jean Corston,Q9630,Labour Party (UK),22418,Q543609,General election 1992,1
+Q6274334,Jonathan Sayeed,Q9626,Conservative Party (UK),19726,Q543609,General election 1992,2
+,John Francis Kiely,Q9624,Liberal Democrats (UK),7903,Q543609,General election 1992,3
+Q5980768,Ian Anderson,Q158093,National Front (UK),270,Q543609,General election 1992,4
+Q6274334,Jonathan Sayeed,Q9626,Conservative Party (UK),21906,Q918472,General election 1987,1
+,Ronald Thomas,Q9630,Labour Party (UK),17783,Q918472,General election 1987,2
+Q390737,Don Foster,Q622441,Liberal Party (UK),10247,Q918472,General election 1987,3
+,Philip Kingston,Q158093,National Front (UK),286,Q918472,General election 1987,4
+Q6274334,Jonathan Sayeed,Q9626,Conservative Party (UK),19844,Q918466,General election 1983,1
+Q332412,Tony Benn,Q9630,Labour Party (UK),18055,Q918466,General election 1983,2
+,Peter Tryer,Q622441,Liberal Party (UK),10404,Q918466,General election 1983,3
+,Ernest Andrews,Q158093,National Front (UK),343,Q918466,General election 1983,4
+,Gundula Dorey,Q15980875,Ecology Party,311,Q918466,General election 1983,5
+Q332405,Stafford Cripps,Q9630,Labour Party (UK),27975,Q918397,General election 1945,1
+,T.D. Corpe,Q9626,Conservative Party (UK),10073,Q918397,General election 1945,2
+Q332405,Stafford Cripps,Q9630,Labour Party (UK),22009,Q918378,General election 1935,1
+Q4786265,Archibald Church,Q2184291,National Labour Organisation,15126,Q918378,General election 1935,2
+Q332405,Stafford Cripps,Q9630,Labour Party (UK),19435,Q918375,General election 1931,1
+,James Manly Spreull,Q9626,Conservative Party (UK),19006,Q918375,General election 1931,2
+Q332405,Stafford Cripps,Q9630,Labour Party (UK),19261,Q16846785,1931 Bristol East by-election,1
+,Peter John Feilding Chapman-Walker,Q9626,Conservative Party (UK),7937,Q16846785,1931 Bristol East by-election,2
+,Edward Baker,Q622441,Liberal Party (UK),4010,Q16846785,1931 Bristol East by-election,3
+Q7964234,Walter Baker,Q9630,Labour Party (UK),24197,Q517639,General election 1929,1
+,Charles Gordon-Spencer,Q622441,Liberal Party (UK),12576,Q517639,General election 1929,2
+Q7964234,Walter Baker,Q9630,Labour Party (UK),16920,Q2632991,General election 1924,1
+,Herbert John Maggs,Q622441,Liberal Party (UK),12143,Q2632991,General election 1924,2
+Q7964234,Walter Baker,Q9630,Labour Party (UK),14828,Q3084294,General election 1923,1
+Q5661823,Harold Morris,Q622441,Liberal Party (UK),12788,Q3084294,General election 1923,2
+Q5661823,Harold Morris,Q6974098,"National Liberal Party (UK, 1922)",13910,Q3084303,General election 1922,1
+Q55648273,Luke Bateman,Q9630,Labour Party (UK),13759,Q3084303,General election 1922,2
+Q5537372,George Britton,Q5137907,Coalition Liberal,9434,Q3042701,General election 1918,1
+Q55648273,Luke Bateman,Q9630,Labour Party (UK),8135,Q3042701,General election 1918,2
+Q7526233,Charles Hobhouse,Q622441,Liberal Party (UK),1447,Q3042701,General election 1918,3
+Q5647365,Handel Cossham,Q622441,Liberal Party (UK),4647,Q3397257,General election 1885,1
+,James Broad Bissell,Q9626,Conservative Party (UK),2383,Q3397257,General election 1885,2
+Q5647365,Handel Cossham,Q622441,Liberal Party (UK),3672,Q7888016,General election 1886,1
+,James Inskip,Q9626,Conservative Party (UK),1936,Q7888016,General election 1886,2
+Q6282664,Joseph Dodge Weston,Q622441,Liberal Party (UK),4775,Q98521628,1890 Bristol East by-election,1
+,James Inskip,Q9626,Conservative Party (UK),1900,Q98521628,1890 Bristol East by-election,2
+Q6283847,Havelock Wilson,Q327591,Independent Labour,602,Q98521628,1890 Bristol East by-election,3
+Q8020420,William Wills,Q622441,Liberal Party (UK),3740,Q98521631,1895 Bristol East by-election,1
+,Hugh Holmes Gore,Q327591,Independent Labour,3558,Q98521631,1895 Bristol East by-election,2
+Q8020420,William Wills,Q622441,Liberal Party (UK),4129,Q7888019,General election 1895,1
+Q7411474,Samuel George Hobson,Q1507913,Independent Labour Party (UK),1874,Q7888019,General election 1895,2
+Q7526233,Charles Hobhouse,Q622441,Liberal Party (UK),4979,Q918358,General election 1900,1
+Q7349560,Robert Sanders,Q9626,Conservative Party (UK),3848,Q918358,General election 1900,2
+Q7526233,Charles Hobhouse,Q622441,Liberal Party (UK),7935,Q3076606,General election 1906,1
+,Thomas Bertram Johnston,Q1754707,Liberal Unionist Party,3129,Q3076606,General election 1906,2
+Q7526233,Charles Hobhouse,Q622441,Liberal Party (UK),6804,Q3075752,General election January 1910,1
+,Thomas Henry Batten,Q9626,Conservative Party (UK),4033,Q3075752,General election January 1910,2
+Q21664939,Frank Sheppard,Q9630,Labour Party (UK),2255,Q3075752,General election January 1910,3
+Q7526233,Charles Hobhouse,Q622441,Liberal Party (UK),7229,Q3076583,General election December 1910,1
+Q13529926,Patrick Hannon,Q9626,Conservative Party (UK),4263,Q3076583,General election December 1910,2
+Q7526233,Charles Hobhouse,Q622441,Liberal Party (UK),4913,Q4968892,1911 Bristol East by-election,1
+,Walter Moore,Q327591,Independent (politician),2913,Q4968892,1911 Bristol East by-election,2
